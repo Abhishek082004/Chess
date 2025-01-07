@@ -62,7 +62,7 @@ This project is an online chess game developed using HTML, CSS, and JavaScript. 
 ---
 
 ## Author
-**Jahid Khan**
+**Abhishek Periyaperumal**
 
 Feel free to connect or contribute to the project!
 
